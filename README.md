@@ -1,6 +1,13 @@
 # GAS
 GAS util
 
+```js
+var obj=GAS.toJSON(formElement)
+```
+```js
+var res=await GAS.fetchGet(url,obj)
+var res=await GAS.fetchPost(url,obj)
+```
 
 ```js
 /*
