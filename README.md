@@ -2,6 +2,10 @@
 GAS util
 
 ```js
+import {GAS} from "https://pinkromeo18.github.io/GAS/GAS.js"
+```
+
+```js
 var obj=GAS.toJSON(formElement)
 ```
 ```js
@@ -14,7 +18,7 @@ var res=await GAS.fetchPost(url,obj)
 usage
 */
 
-import {GAS} from "https://codepen.io/pinkromeo/pen/dyaoLzx.js?GAS=v1"
+import {GAS} from "https://pinkromeo18.github.io/GAS/GAS.js"
 
 console.log(GAS)
 
