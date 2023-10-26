@@ -84,3 +84,10 @@ function calcPost(obj){
   return obj;
 }
 ```
+
+#### deploy on google action script
+![](needs.png)
+![](needs2.png)
+
+
+
