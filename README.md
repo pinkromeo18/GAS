@@ -14,9 +14,8 @@ var res=await GAS.fetchPost(url,obj)
 ```
 
 ```js
-/*
-usage
-*/
+// client
+// usage
 
 import {GAS} from "https://pinkromeo18.github.io/GAS/GAS.js"
 
